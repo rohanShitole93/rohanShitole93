@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rohan Shitole
 
-<!--
-**rohanShitole93/rohanShitole93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Data Science* with a passion for turning data into actionable insights and building data-driven applications.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools
+- *Languages:* Python, SQL, HTML, CSS
+- *Data Analysis & Visualization:* Excel, Power BI, Matplotlib, Seaborn
+- *Data Science & ML:* Pandas, NumPy, Scikit-learn
+- *Web:* Basic HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques
+- Cloud services for data deployment (AWS, Azure)
+
+## 🚀 Projects
+- 📊 *Power BI Dashboards:* Interactive dashboards for sales & customer analysis
+- 📈 *Python Data Analysis:* Scripts and notebooks for EDA and ML
+- 🏡 *House Price Prediction:* Web app using ML to predict house prices
+- 🏦 *Bank Management System:* Basic management system built with Python
+
+## 📫 Contact Me
+- LinkedIn:linkedin.com/in/rohan-shitole-25a967355   
+- Email:rohanshitole72@gmail.com     
+
+Thanks for stopping by! Feel free to check out my repositories and projects. ⭐
